@@ -1,2 +1,1 @@
-# DynamicEpochValues
-Technical Test
+Quarkus guide: https://quarkus.io/guides/rest-client
